@@ -1,3 +1,3 @@
 -@lone77wulf
 - working on collecting Twitter data and converting it to a NENA standard EIDO for use in medical emergencies
-
+- Twitter Cleaner uses keywords extracted from the 3 most common medcial complaints to the Cincinnati Fire/EMS dispatchers during 2021
